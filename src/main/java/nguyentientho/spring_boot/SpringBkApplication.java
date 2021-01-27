@@ -1,4 +1,4 @@
-package nguyentientho.spring_bk;
+package nguyentientho.spring_boot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
